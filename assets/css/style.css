@@ -1,0 +1,86 @@
+body{
+  margin-top: 4em;
+  font-family: 'Gill Sans', cursive;
+}
+
+.navbar{
+  position: fixed;
+  background: url(../img/source.gif) no-repeat fixed, #FFF;
+ -webkit-background-size: 15%;
+     -moz-background-size: 15%;
+       -o-background-size: 15%;
+          background-size: 15%;
+          border-right: 50px solid transparent;
+          background-position: 72px -20px; 
+
+}
+
+.logo{
+  width: 3.4em;
+  margin-top: -16px;
+}
+
+.btn{
+  color:#FFFFFF;
+  border: none;
+}
+
+.btn1{
+  background-color: #FF12EA;
+  
+}
+
+.btn2{
+  background-color: #3CFFF6;
+}
+
+.giphyLogo{
+  background: #000;
+}
+
+.warning{
+  width: 100%;
+  height: 3em;
+  border: 1px solid #DB1301;
+  background-color: #FF6E5F;
+  color: #FFFFFF;
+  line-height: 2.8;
+  margin-top: 4em;
+}
+
+.fa-heart:hover{
+  color: #FF0010;
+}
+
+#alert{
+  color: #DB1301;
+}
+
+.avatars{
+  width:225px;
+  padding-left:5%;
+}
+
+#aboutus1{
+  padding-top:2%;
+}
+
+#cats{
+  background-color: #ff86ad;
+  color:#fff;
+}
+
+#dogs{
+  background-color:#ffdb85;
+  color:#fff;
+}
+
+#babies{
+  background-color:#5da5ff;
+  color:#fff;
+}
+
+#grannys{
+  background-color:#b27ef9;
+  color:#fff;
+}
